@@ -4,8 +4,8 @@
 segment .data
 shift_left db       "Shifting Left",0
 shift_right db      "Shifting Right",0
-ashift_left db      "Rotate Arithmetic Shifting Left", 0
-ashift_right db     "Rotate Arithmetic Shifting Right", 0
+ashift_left db      "Arithmetic Shifting Left", 0
+ashift_right db     "Arithmetic Shifting Right", 0
 rshift_left db      "Rotate Shifting Left", 0
 rshift_right db     "Rotate Shifting Right", 0
 rcshift_left db     "Rotate Shifting Left with Carry", 0
